@@ -26,7 +26,7 @@ Node-Web-Console 是基于 Node.js 开发的一个网页版应用（可以理解
 Node-Web-Console 使用 [Koa](https://github.com/koajs/koa) 作为 web 服务器，因此 node 版本需要至少 7.6.0 或者更高。
 
 ```shell
-git clone https://github.com/ChrisCindy/node-web-console.git
+git clone https://github.com/Unravel-Andy/node-web-console.git
 cd node-web-console
 
 # 安装依赖

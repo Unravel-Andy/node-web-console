@@ -26,7 +26,7 @@ let silentMode = false
 
 // Default banner
 let bannerMain = 'Node Web Console'
-const bannerLink = 'https://github.com/ChrisCindy/node-web-console'
+const bannerLink = 'https://github.com/Unravel-Andy/node-web-console'
 let bannerExtra = `${bannerLink}\n`
 
 // Big banner

@@ -28,7 +28,7 @@ The application is very light, does not require any database and can be installe
 Node-Web-Console uses [Koa](https://github.com/koajs/koa) to start the web server, so it requires node v7.6.0 or higher.
 
 ```shell
-git clone https://github.com/ChrisCindy/node-web-console.git
+git clone https://github.com/Unravel-Andy/node-web-console.git
 cd node-web-console
 
 # instal dependencies 
